@@ -1,0 +1,71 @@
+Vinay R Jumani
++91-7550056701 | vinayrjumani@gmail.com | linkedin.com/in/vinay-r-jumani-39489a210 | github.com/Vinay12345-neutron | https://vinay12345-neutron.github.io/ | Instructables/ElectronicSciTech
+
+Objective
+Aspiring AI Hardware and Deep Learning Engineer passionate about building intelligent systems, solving real-world problems, and contributing to impactful technology.
+
+Education
+BITS Pilani, Goa Campus B.E. in Electronics and Instrumentation -- CGPA: 7.6/10
+
+Goa, India Expected May 2028
+
+Projects
+
+· ResNet Project
+
+GitHub
+
+Trained a ResNet-18 model on the CIFAR-10 dataset using PyTorch. Achieved 90% accuracy by implementing data
+
+augmentation, learning rate scheduling, and mixed precision training.
+
+· RAG Chatbot
+
+GitHub
+
+This project implements a simple yet functional Retrieval Augmented Generation (RAG) chatbot. The chatbot an-
+
+swers user queries based on the content of a provided research paper (PDF format). It combines text retrieval and
+
+large language models (LLMs) to generate accurate and contextually relevant responses.
+
+· OpenCV and MediaPipe Built a hand detection and a basic game using OpenCV and MediaPipe
+
+GitHub
+
+· CoreML (SAIDL Spring Assignment)
+
+GitHub
+
+Worked on implementing the APL framework by adjusting noise levels and comparing the APL with other frameworks.
+
+· Multi-Modality (SAIDL Spring Assignment) Implemented Graph Neural Networks (GNNs) for multi-modality learning.
+
+GitHub
+
+· Miscellaneous
+
+Instructables (profile)
+
+Basic electronics projects from grade 9, including a self-watering plant system. Also worked extensively with 3D printers
+
+(FDM).
+
+· In Progress:
+
+­ DL Implementation - Working on implementing Mamba architecture in torch in a research oriented project. ­ AI-Based Rubik's Cube Solver ­ using neural networks and computer vision ­ AI Hardware Optimization SaaS Tool ­ lightweight benchmarking + model optimization platform ­ Drone DL ­ working on a drone project as well
+
+Skills
+· Programming: Python, C/C++, JavaScript, Solidity (blockchain smart contract) · Tools/Frameworks: PyTorch, TensorFlow, Git, Fusion 360, OpenRocket, CrewAI, OpenCV, MediaPipe, MERN
+Stack
+· Hardware: Raspberry Pi, Arduino, Sensors, Microcontrollers, 3D Printing · Traits: Extremely fast learner
+
+Achievements / Certifications
+· Deep Learning Specialization by Andrew Ng ­ Coursera (link) · FIDE Chess Rating: 1852 ­ Represented India at National/International level multiple times (link) · JEE Advanced 2024: Rank 10,452 (CRL) ­ Top 5% of candidates · JEE Mains 2024: Rank 18,021 (CRL) ­ Top 2% of candidates · Indian Aptitude Test (IAT-IISER/IISc) 2024: Rank 275 (CRL) - Top 0.6% of candidates · CBSE Board: Class 10 ­ 97%, Class 12 ­ 97%
+
+Extra-Curricular Activities
+· Core Member ­ Electronics and Robotics Club, SEDS Celestia Rocketry Club, Developer's Society AI/ML, Center for Entrepreneurial Leadership (CEL), BITS Goa
+· Formed a developers community in college with over 300+ community members. Involves verticals like AgenticAI, GenAI, DL, EdgeAI, OpenSource and Vibe Coding
+· Sports ­ Professional Chess Player
+
+

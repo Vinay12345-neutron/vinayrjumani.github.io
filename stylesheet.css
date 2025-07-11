@@ -74,14 +74,80 @@ a:hover {
   text-decoration: none;
 }
 
-body,
-td,
-th,
-tr,
-p,
-a {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 21px;
+body {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  background: #f9f9f9;
+  color: #222;
+  margin: 0;
+  padding: 0;
+}
+.container {
+  max-width: 700px;
+  margin: 40px auto;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.07);
+  padding: 32px 24px;
+}
+header {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  margin-bottom: 32px;
+}
+.profile-photo {
+  width: 110px;
+  height: 110px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #e0e0e0;
+}
+header h1 {
+  font-size: 2.2rem;
+  margin: 0;
+}
+.links {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-left: auto;
+}
+.links a {
+  color: #1976d2;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.2s;
+}
+.links a:hover {
+  color: #0d47a1;
+}
+section {
+  margin-bottom: 32px;
+}
+section h2 {
+  font-size: 1.3rem;
+  color: #1976d2;
+  margin-bottom: 10px;
+}
+ul {
+  padding-left: 20px;
+}
+li {
+  margin-bottom: 8px;
+}
+@media (max-width: 600px) {
+  .container {
+    padding: 12px 4px;
+  }
+  header {
+    flex-direction: column;
+    gap: 12px;
+  }
+  .links {
+    flex-direction: row;
+    gap: 12px;
+    margin-left: 0;
+  }
 }
 
 strong {
